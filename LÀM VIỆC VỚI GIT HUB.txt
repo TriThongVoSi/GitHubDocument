@@ -1,0 +1,12 @@
+LÀM VIỆC VỚI GIT HUB
+Bước 0: Tải git bash desk top về máy
+Bước 1: Vào git hub tạo new repository
+Bước 2: Về desktop, chuột phải chọn show more options, chọn Open Git Bash here
+Bước 3: Màn hình git bash hiển thị, nhập lệnh "git clone <link repository vừa tạo>
+Bước 4: Folder mới với tên repository được tạo ở desktop, mở folder này và copy các file code bạn muốn push lên git vào
+Bước 5: Tại folder này, chuột phải chọn show more options, chọn Open Git Bash here
+Bước 6: Màn hình git bash hiển thị, nhập lệnh "git add .", git hub sẽ theo dõi toàn bộ file code trong folder này (chú ý xoá file build dự án)
+Bước 7: Nhập lệnh "git commit -m "first commit"" 
+Bước 8: Nhập lệnh "git push", các file code được push mặc định lên branch-main
+Vậy là bạn đã thành công push các file code của dự án lên git 
+*Chú ý: không nên push các file build dự án ở bước 6 vì sẽ làm cho dự án nặng dung lượng)
