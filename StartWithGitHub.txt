@@ -1,4 +1,5 @@
 LÀM VIỆC VỚI GIT HUB
+Chú ý các file code nên đặt tên tiếng anh
 Bước 0: Tải git bash desk top về máy
 Bước 1: Vào git hub tạo new repository
 Bước 2: Về desktop, chuột phải chọn show more options, chọn Open Git Bash here

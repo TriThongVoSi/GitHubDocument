@@ -1,0 +1,8 @@
+CẬP NHẬT 1 FILE CODE TRONG DỰ ÁN LÊN GIT HUB
+Chú ý các file code nên đặt tên tiếng anh
+Bước 1: Sau khi chỉnh sửa file code, copy file code đó vào trong folder tên repository ở desktop
+Bước 2: Nhập lệnh "git status" để theo dõi file folder đã có những thay đổi gì
+Bước 3: Nhập lệnh "git add tên file code đó", ví dụ "git add review.cpp", git hub sẽ chỉ theo dõi file code này
+Bước 4: Nhập lệnh "git commit -m "Cap nhat tinh nang login""
+Bước 5: Nhập lệnh "git push origin main"
+Vậy là bạn đã thành công cập nhật 1 file code trong dự án lên git hub
