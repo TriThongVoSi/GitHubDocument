@@ -1,0 +1,14 @@
+TẠO BRANCH MỚI VÀ PUSH CODE LÊN BRANCH ĐÓ
+
+Bước 1: Copy file code mới của bạn vào folder repository
+Bước 2: Tại folder này, chuột phải chọn show more options, chọn Open Git Bash here
+Bước 3: Nhập lệnh "git checkout -b new-branch1",tạo một branch mới và chuyển sang branch đó
+Bước 4: Nhập lệnh "git status" ,kiểm tra trạng thái các file đã thay đổi
+Bước 5: Nhập lệnh "git add tên-file-code-muốn-push-lên-branch-mới", git hub sẽ chỉ theo dõi file code này
+Bước 6: Nhập lệnh "git commit -m "Add new code to new branch1""
+Bước 7: Nhập lệnh "git push origin new-branch1"
+Vậy là bạn đã push code lên branch mới thành công rồi đấy
+*Lưu ý:
+Số 1: Nếu bạn muốn quay lại branch chính (main), sử dụng lệnh "git checkout main"
+Số 2: Nếu bạn muốn xem danh sách các branch, sử dụng lệnh "git branch"
+Số 3: Nếu bạn muốn xem tất cả các branch (bao gồm cả remote), sử dụng lệnh "git branch -a"
